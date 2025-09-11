@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi there 👋, I'm Aleksey Tkach 
 
-<!--
-**YaBuffy/YaBuffy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm just a person who is trying to become a **programmer** 💻.   
+Currently, I'm on my way to becoming an **Android Developer** 📱 and I really hope I'll make it 🚀.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Skills
+- **Kotlin** 🔸  
+- **Jetpack Compose** 🎨  
+- A bit of **ViewModel**, **Retrofit**, and **Room** 🛠  
+
+---
+
+## 🎯 Goals
+- Keep improving my Android development skills  
+- Build cool apps and share them here on GitHub  
+- Land my first Android developer job 💼   
