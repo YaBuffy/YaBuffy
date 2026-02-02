@@ -7,7 +7,10 @@ Currently, I'm on my way to becoming an **Android Developer** 📱 and I really 
 
 ## 🛠 Skills
 - **Kotlin** 
-- **Jetpack Compose** 
+- **Jetpack Compose**
+- **Hilt**
+- **Room**
+- **Retrofit**
 - **Clean Architecture**
 - **Firebase**
-- **ViewModel**, **Retrofit**, and **Room**  
+- **ViewModel**
